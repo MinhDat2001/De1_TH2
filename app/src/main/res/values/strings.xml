@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Thực hành 2 đề 1</string>
+    <string name="work_prompt">Chọn trạng thái công việc</string>
+    <string-array name="status_array">
+        <item>Chưa thực hiện</item>
+        <item>Đang thực hiện</item>
+        <item>Đã thực hiện</item>
+    </string-array>
+    <string-array name="find_status_array">
+        <item>Chọn tất cả</item>
+        <item>Chưa thực hiện</item>
+        <item>Đang thực hiện</item>
+        <item>Đã thực hiện</item>
+    </string-array>
+</resources>
